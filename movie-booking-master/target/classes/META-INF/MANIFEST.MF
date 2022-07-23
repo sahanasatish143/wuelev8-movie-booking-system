@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ss143
+Build-Jdk: 15.0.2
+Implementation-Title: reservations
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.frankmoley
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/reservations/
+Created-By: Maven Integration for Eclipse
+
